@@ -8,7 +8,7 @@ const layoutdashbord  = (
     return (
         <div style={{backgroundColor :  "blueviolet"}}>
            <nav>
-            <h1>NavBar</h1>
+            <h1>Navbar</h1>
            </nav>
              <div>
                 {children }
